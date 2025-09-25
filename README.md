@@ -51,30 +51,32 @@ Ao final desta disciplina, o aluno será capaz de:
 
 ## 🗓️ Cronograma
 
-| Semana | Data         | Tópico Abordado                                                                  | Atividades / Entregas                |
-| :----: | :----------- | -------------------------------------------------------------------------------- | ------------------------------------ |
-|   01   | 22/09/2025   | Introdução ao C.<br>Variáveis e operadores.<br>Entrada e Saída.                    |                                      |
-|   02   | 29/09/2025   | Estruturas condicionais (if/switch).<br>Estrutura de repetição (while/for).       |                                      |
-|   03   | 06/10/2025   | Revisão                                                                          |                                      |
-|   04   | 13/10/2025   |                                                                                  | **Prova 1** |
-|   05   | 20/10/2025   | Ponteiro                                                                         |                                      |
-|   06   | 27/10/2025   | Função e recursão.                                                               |                                      |
-|   07   | 03/11/2025   | Vetores                                                                          |                                      |
-|   08   | 10/11/2025   | Matrizes                                                                         |                                      |
-|   09   | 17/11/2025   | Revisão                                                                          |                                      |
-|   10   | 24/11/2025   |                                                                                  | **Prova 2** |
-|   11   | 01/12/2025   | Algoritmos de busca.                                                             |                                      |
-|   12   | 08/12/2025   | Feriado |                                      |
-|   13   | 15/12/2025   | Algoritmos de ordenação.                                                         |                                      |
-|   14   | 22/12/2025   |                                                                                  | **Entrega: Trabalho (CRUD)** |
-|   15   | 29/12/2025   | *Recesso de Fim de Ano (a confirmar)* |                                      |
-|   16   | 05/01/2026   | Pilha e Fila.                                                                    |                                      |
-|   17   | 12/01/2026   | Tipo Estruturado.                                                                |                                      |
-|   18   | 19/01/2026   | Atividade sobre tipo estruturado.                                                |                                      |
-|   19   | 26/01/2026   | Lista encadeada.                                                                 |                                      |
-|   20   | 02/02/2026   |                                                                                  | **Entrega: Trabalho Final** |
-|   21   | 09/02/2026   |                                                                                  | **Apresentações (individuais)** |
-|   22   | 16/02/2026   | *Recesso de Carnaval (a confirmar)* |                                      |
+
+
+| Status | Data| Tópico Abordado| Arquivos|
+| :----: | :----------- |------- | ------------------------------------ |
+|   :white_check_mark:   | 22/09/2025   | Introdução ao C.<br>Variáveis e operadores.<br>Entrada e Saída.| [Slide 01: Variável](https://drive.google.com/file/d/1sDgBUU-94CIQbfwB9JCHLkjc_9iQIg9L/view?usp=sharing) </br> [Slide 02: Entrade e Saida](https://drive.google.com/file/d/1H3AqVY5UXhVdONu9phn34bt4B4MetPWf/view?usp=sharing) </br> [Atividade 01: Entrada e Saida](https://drive.google.com/file/d/1m2Yejg84vXxKHBbTrestH-WrwzMy1QJ8/view?usp=sharing) |
+|   :black_square_button:   | 29/09/2025   | Estruturas condicionais (if/switch).<br>Estrutura de repetição (while/for).       |                                      |
+|   :black_square_button:   | 06/10/2025   | Revisão                                                                          |                                      |
+|   :black_square_button:   | 13/10/2025   | **Prova 1** |  |
+|   :black_square_button:   | 20/10/2025   | Ponteiro                                                                         |                                      |
+|   :black_square_button:   | 27/10/2025   | Função e recursão.                                                               |                                      |
+|   :black_square_button:   | 03/11/2025   | Vetores                                                                          |                                      |
+|   :black_square_button:   | 10/11/2025   | Matrizes                                                                         |                                      |
+|   :black_square_button:   | 17/11/2025   | Revisão                                                                          |                                      |
+|   :black_square_button:   | 24/11/2025   | **Prova 2**| |
+|   :black_square_button:   | 01/12/2025   | Algoritmos de busca.                                                             |                                      |
+|   :black_square_button:   | 08/12/2025   | Feriado |                                      |
+|   :black_square_button:   | 15/12/2025   | Algoritmos de ordenação.                                                         |                                      |
+|   :black_square_button:   | 22/12/2025   | **Entrega: Trabalho (CRUD**                                                                                  | |
+|   :black_square_button:   | 29/12/2025   | *Recesso de Fim de Ano (a confirmar)* |                                      |
+|   :black_square_button:   | 05/01/2026   | Pilha e Fila.                                                                    |                                      |
+|   :black_square_button:   | 12/01/2026   | Tipo Estruturado.                                                                |                                      |
+|   :black_square_button:   | 19/01/2026   | Atividade sobre tipo estruturado.                                                |                                      |
+|   :black_square_button:   | 26/01/2026   | Lista encadeada.                                                                 |                                      |
+|   :black_square_button:   | 02/02/2026   |**Entrega: Trabalho Final**                                                                                  |  |
+|   :black_square_button:   | 09/02/2026   |**Apresentações (individuais**                                                                                   | |
+|   :black_square_button:   | 16/02/2026   | *Recesso de Carnaval (a confirmar)* |                                      |
 
 ---
 
