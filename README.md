@@ -56,7 +56,7 @@ Ao final desta disciplina, o aluno será capaz de:
 | Status | Data| Tópico Abordado| Arquivos|
 | :----: | :----------- |------- | ------------------------------------ |
 |   :white_check_mark:   | 22/09/2025   | Introdução ao C.<br>Variáveis e operadores.<br>Entrada e Saída.| [Slide 01: Variável](https://drive.google.com/file/d/1sDgBUU-94CIQbfwB9JCHLkjc_9iQIg9L/view?usp=sharing) </br> [Slide 02: Entrade e Saida](https://drive.google.com/file/d/1H3AqVY5UXhVdONu9phn34bt4B4MetPWf/view?usp=sharing) </br> [Atividade 01: Entrada e Saida](https://drive.google.com/file/d/1m2Yejg84vXxKHBbTrestH-WrwzMy1QJ8/view?usp=sharing) |
-|   :black_square_button:   | 29/09/2025   | Estruturas condicionais (if/switch).<br>Estrutura de repetição (while/for).       |                                      |
+|   :black_square_button:   | 29/09/2025   | Estruturas condicionais .<br>Estrutura de repetição.       |                                      |
 |   :black_square_button:   | 06/10/2025   | Revisão                                                                          |                                      |
 |   :black_square_button:   | 13/10/2025   | **Prova 1** |  |
 |   :black_square_button:   | 20/10/2025   | Ponteiro                                                                         |                                      |
