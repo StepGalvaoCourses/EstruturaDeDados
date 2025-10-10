@@ -11,5 +11,6 @@ int main(){
         printf("Você foi multado\n");
         printf("Multa de %lf \n",multa);
     }
+    printf("Fim do Programa\n");
     return 0;
 }

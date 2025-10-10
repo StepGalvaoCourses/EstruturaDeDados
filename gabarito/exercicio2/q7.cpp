@@ -1,12 +1,16 @@
 #include <stdio.h>
 
-int main(){
-    double salario , porcentagem, salario_final, aumento;
-    printf("Digite seu salario:");
-    scanf("%lf", &porcentagem);
-    printf("Digite a porcentagem do aumento:");
-    scanf("%lf", &salario);
-    aumento = salario * porcentagem/100;
-    salario_final = salario + aumento;
-    printf("Salario Final = %lf", salario_final);
+int main() {
+    int numero;
+
+
+    printf("Digite um numero inteiro maior que 1: ");
+    scanf("%d", &numero);
+
+
+    for (int i = 1; i <= numero; i++) {
+        printf("%d\n", i);
+    }
+
+    return 0;
 }
