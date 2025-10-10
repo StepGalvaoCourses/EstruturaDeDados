@@ -1,20 +1,20 @@
 #include <stdio.h>
 
-int main(){
-    double altura, largura;
-    double area,perimetro;
+int main() {
+    int idade;
+    double salario;
 
-    printf("Digite a altura: ");
-    scanf("%lf",&altura);
-    printf("Digite a largura: ");
-    scanf("%lf",&largura);
+    
+    printf("Digite sua idade: ");
+    scanf("%d", &idade);
 
-    area = altura * largura;
-    perimetro = 2*altura + 2*largura;
+    
+    printf("Digite seu salario: ");
+    scanf("%lf", &salario);
 
-    printf("Area = %lf m2 \n",area);
-    printf("Perimetro = %lf m \n",perimetro);
+    // Exibe os valores lidos
+    printf("Idade: %d\n", idade);
+    printf("Salario: %lf\n", salario);
 
-
-
+    return 0;
 }

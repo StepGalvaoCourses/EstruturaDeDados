@@ -1,15 +1,23 @@
 #include <stdio.h>
 
-int main(){
-    double altura = 0;
-    double peso = 0;
-    double imc = 0;
+int main() {
+    float altura, largura, area, perimetro;
 
-    printf("Digite a altura: ");
-    scanf("%lf",&altura);
-    printf("Digite o peso: ");
-    scanf("%lf",&peso);
+    
+    printf("Digite a altura do retangulo: ");
+    scanf("%f", &altura);
 
-    imc = peso / (altura * altura);
-    printf("IMC = %lf \n",imc);
+    
+    printf("Digite a largura do retangulo: ");
+    scanf("%f", &largura);
+
+    
+    area = altura * largura;
+    perimetro = 2 * altura + 2 * largura;
+
+    
+    printf("area = %f\n", area);
+    printf("perimetro = %f\n", perimetro);
+
+    return 0;
 }
