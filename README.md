@@ -59,7 +59,7 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 29/09/2025   | Estruturas condicionais .<br>Estrutura de repetição.       |  [Slide 03: Condicional](https://drive.google.com/file/d/1KBk9jyjHN3qLxn-b67wIX3kTrgtH-RQ9/view?usp=sharing) </br> [Slide 04: Repetição](https://drive.google.com/file/d/110y2qEhpwKD538pkw75n7hI9z-JmqWPJ/view?usp=sharing) </br> [Atividade 02: Condicional e Repetição](https://drive.google.com/file/d/1yXczmUrFq6RY5O0EeKCg2jwy8EGrVI1N/view?usp=sharing) </br> [Gabarito: Atividade 02](gabarito/exercicio2/) |
 |   :white_check_mark:   | 06/10/2025 | Revisão|[Prova Passada](https://drive.google.com/file/d/1HUQ00BeSMZzgXLGl9ghBUeXp5lB95U_8/view?usp=sharing) |
 |   :white_check_mark:   | 13/10/2025   | **Prova 1** |  |
-|   :white_check_mark:   | 20/10/2025   | Função e recursão| [Slide 05: Função](https://drive.google.com/file/d/13e4I5ef_Yx4d2oXnXRgiYvo6TRhm4q7f/view?usp=sharing) </br> [Atividade 03: Função](https://drive.google.com/file/d/10fPiddyC6x0uAgEdW0axiQoMKoVu20fs/view?usp=sharing) |
+|   :white_check_mark:   | 20/10/2025   | Função e recursão| [Slide 05: Função](https://drive.google.com/file/d/13e4I5ef_Yx4d2oXnXRgiYvo6TRhm4q7f/view?usp=sharing) </br> [Atividade 03: Função](https://drive.google.com/file/d/10fPiddyC6x0uAgEdW0axiQoMKoVu20fs/view?usp=sharing) </br> [Gabarito: Atividade 03](gabarito/exercicio3)
 |   :black_square_button:   | 27/10/2025   |Ponteiro | |
 |   :black_square_button:   | 03/11/2025   |Vetores | |
 |   :black_square_button:   | 10/11/2025   |Matrizes | |
