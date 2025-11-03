@@ -60,10 +60,10 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 06/10/2025 | Revisão|[Prova Passada](https://drive.google.com/file/d/1HUQ00BeSMZzgXLGl9ghBUeXp5lB95U_8/view?usp=sharing) |
 |   :white_check_mark:   | 13/10/2025   | **Prova 1** |  |
 |   :white_check_mark:   | 20/10/2025   | Função e recursão| [Slide 05: Função](https://drive.google.com/file/d/13e4I5ef_Yx4d2oXnXRgiYvo6TRhm4q7f/view?usp=sharing) </br> [Atividade 03: Função](https://drive.google.com/file/d/10fPiddyC6x0uAgEdW0axiQoMKoVu20fs/view?usp=sharing) </br> [Gabarito: Atividade 03](gabarito/exercicio3)
-|   :black_square_button:   | 27/10/2025   |Ponteiro | |
-|   :black_square_button:   | 03/11/2025   |Vetores | |
-|   :black_square_button:   | 10/11/2025   |Matrizes | |
-|   :black_square_button:   | 17/11/2025   | Revisão | |
+|   :white_check_mark:   | 27/10/2025 | SNCT | |
+|   :white_check_mark:   | 03/11/2025   |Prática Arduino | [Slides 06: Prática](https://drive.google.com/file/d/1k5rWdZfCDSK7c-W0dJbEujD_oEd5nEiQ/view?usp=drive_link)|
+|   :black_square_button:   | 10/11/2025   |Ponteiros | |
+|   :black_square_button:   | 17/11/2025   | Vetores | |
 |   :black_square_button:   | 24/11/2025   | **Prova 2**| |
 |   :black_square_button:   | 01/12/2025   | Algoritmos de busca.| |
 |   :black_square_button:   | 08/12/2025   | Feriado |  |
