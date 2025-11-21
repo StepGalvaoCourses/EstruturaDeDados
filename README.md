@@ -63,7 +63,7 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 27/10/2025 | SNCT | |
 |   :white_check_mark:   | 03/11/2025   |Prática Arduino | [Slides 06: Prática](https://drive.google.com/file/d/1k5rWdZfCDSK7c-W0dJbEujD_oEd5nEiQ/view?usp=drive_link)|
 |   :white_check_mark:   | 10/11/2025   |Ponteiros | [Slides 07: Ponteiro e Passagem de Parâmetro](https://drive.google.com/file/d/1f2n1hmM03qwQx2K4oSu3v2WdfUa6un6v/view?usp=drive_link) <br/> [Atividade 04: Ponteiro](https://drive.google.com/file/d/1EB5UQtTUmOv0ezhsGl-Rv1l54qU9npOZ/view?usp=drive_link) <br/> [Atividade 05: Passagem Parâmetro](https://drive.google.com/file/d/1UJXGdh773u4VB56KA2IV_zrEwM0MLRYf/view?usp=drive_link)|
-|   :black_square_button:   | 17/11/2025   | Vetores | |
+|   :white_check_mark:   | 17/11/2025   | Array (Vetores) |[Slides 08:Array(Vetores)](https://drive.google.com/file/d/1tPq_FG8quDd0JIwGsNv8UbeJSTnxts2-/view?usp=drive_link) <br/>[Atividade 06: Array(Vetores)](https://drive.google.com/file/d/1DMzQLmc0aiJCVCGWAHTgQuib2DkZgT4Z/view?usp=drive_link) |
 |   :black_square_button:   | 24/11/2025   | **Prova 2**| |
 |   :black_square_button:   | 01/12/2025   | Algoritmos de busca.| |
 |   :black_square_button:   | 08/12/2025   | Feriado |  |
