@@ -67,8 +67,8 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 24/11/2025   | Atividade Array| |
 |   ::white_check_mark:   | 01/12/2025   | Tipo Estruturado| [Slides 09](https://drive.google.com/file/d/1tutZ4NSwwQqRT0tEiHO2zOzH9gS69TJW/view?usp=drive_link) <br/> [Atividade 10: Tipo Estruturado](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link)|
 |   :black_square_button:   | 08/12/2025   | Feriado |  |
-|   :black_square_button:   | 15/12/2025   | Prova| |
-|   :black_square_button:   | 22/12/2025   |  Algoritmo de Busca| |
+|   :black_square_button:   | 15/12/2025   | Revisão|[Revisão Ponteiro](https://drive.google.com/file/d/1H-QEXX9n8vLM5HXdiXZYANbsAVzfiyAW/view?usp=drive_link)<br/>[Revisão Lista](https://drive.google.com/file/d/1mqQboKfEPzWUxXLIXHfPi6l9oR3nklgR/view?usp=drive_link) |
+|   :black_square_button:   | 22/12/2025   |  Prova| |
 |   :black_square_button:   | 29/12/2025   | *Recesso de Fim de Ano * |  |
 |   :black_square_button:   | 05/01/2026   | Algoritmos de busca. | |
 |   :black_square_button:   | 12/01/2026   | Algoritmos de ordenação. |  |
