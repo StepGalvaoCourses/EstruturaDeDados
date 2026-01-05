@@ -65,12 +65,12 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 10/11/2025   |Ponteiros | [Slides 07: Ponteiro e Passagem de Parâmetro](https://drive.google.com/file/d/1f2n1hmM03qwQx2K4oSu3v2WdfUa6un6v/view?usp=drive_link) <br/> [Atividade 04: Ponteiro](https://drive.google.com/file/d/1EB5UQtTUmOv0ezhsGl-Rv1l54qU9npOZ/view?usp=drive_link) <br/> [Atividade 05: Passagem Parâmetro](https://drive.google.com/file/d/1UJXGdh773u4VB56KA2IV_zrEwM0MLRYf/view?usp=drive_link)|
 |   :white_check_mark:   | 17/11/2025   | Array (Vetores) |[Slides 08:Array(Vetores)](https://drive.google.com/file/d/1tPq_FG8quDd0JIwGsNv8UbeJSTnxts2-/view?usp=drive_link) <br/>[Atividade 08: Array(Vetores)](https://drive.google.com/file/d/1DMzQLmc0aiJCVCGWAHTgQuib2DkZgT4Z/view?usp=drive_link) <br/> [Atividade 08: Array Função](https://drive.google.com/file/d/1fzs7FG3RMmHTnpkv3aaiHf24Lpn-Pjs7/view?usp=drive_link) |
 |   :white_check_mark:   | 24/11/2025   | Atividade Array| |
-|   ::white_check_mark:   | 01/12/2025   | Tipo Estruturado| [Slides 09](https://drive.google.com/file/d/1tutZ4NSwwQqRT0tEiHO2zOzH9gS69TJW/view?usp=drive_link) <br/> [Atividade 10: Tipo Estruturado](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link)|
-|   :black_square_button:   | 08/12/2025   | Feriado |  |
-|   :black_square_button:   | 15/12/2025   | Revisão|[Revisão Ponteiro](https://drive.google.com/file/d/1H-QEXX9n8vLM5HXdiXZYANbsAVzfiyAW/view?usp=drive_link)<br/>[Revisão Lista](https://drive.google.com/file/d/1mqQboKfEPzWUxXLIXHfPi6l9oR3nklgR/view?usp=drive_link) |
-|   :black_square_button:   | 22/12/2025   |  Prova| |
-|   :black_square_button:   | 29/12/2025   | *Recesso de Fim de Ano * |  |
-|   :black_square_button:   | 05/01/2026   | Algoritmos de busca. | |
+|   :white_check_mark:   | 01/12/2025   | Revisão| |
+|   :white_check_mark:   | 08/12/2025   | Feriado |  |
+|   :white_check_mark:   | 15/12/2025   | Revisão|[Revisão Ponteiro](https://drive.google.com/file/d/1H-QEXX9n8vLM5HXdiXZYANbsAVzfiyAW/view?usp=drive_link)<br/>[Revisão Lista](https://drive.google.com/file/d/1mqQboKfEPzWUxXLIXHfPi6l9oR3nklgR/view?usp=drive_link) |
+|   :white_check_mark:   | 22/12/2025   |  Prova| |
+|   :white_check_mark:   | 29/12/2025   | *Recesso de Fim de Ano * |  |
+|   :white_check_mark:   | 05/01/2026   | String e Struct | [Slides 09 - String](https://drive.google.com/file/d/1XZK6A6JV0qXTxconoWLLoQWII_S9yaN-/view?usp=drive_link) <br/> [Slides 10 - Struct](https://drive.google.com/file/d/15wdhqQWayWTWb_G1ICGS316AgS_-Dn3m/view?usp=drive_link) <br/> [Atividade 10: Tipo Estruturado](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link) |
 |   :black_square_button:   | 12/01/2026   | Algoritmos de ordenação. |  |
 |   :black_square_button:   | 19/01/2026   | Pilha e Fila. | |
 |   :black_square_button:   | 26/01/2026   | Lista encadeada. | |
