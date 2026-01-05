@@ -70,7 +70,7 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 15/12/2025   | Revisão|[Revisão Ponteiro](https://drive.google.com/file/d/1H-QEXX9n8vLM5HXdiXZYANbsAVzfiyAW/view?usp=drive_link)<br/>[Revisão Lista](https://drive.google.com/file/d/1mqQboKfEPzWUxXLIXHfPi6l9oR3nklgR/view?usp=drive_link) |
 |   :white_check_mark:   | 22/12/2025   |  Prova| |
 |   :white_check_mark:   | 29/12/2025   | *Recesso de Fim de Ano * |  |
-|   :white_check_mark:   | 05/01/2026   | String e Struct | [Slides 09 - String](https://drive.google.com/file/d/1XZK6A6JV0qXTxconoWLLoQWII_S9yaN-/view?usp=drive_link) <br/> [Slides 10 - Struct](https://drive.google.com/file/d/15wdhqQWayWTWb_G1ICGS316AgS_-Dn3m/view?usp=drive_link) <br/> [Atividade 10: Tipo Estruturado](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link) |
+|   :white_check_mark:   | 05/01/2026   | String e Struct | [Slides 09 - String](https://drive.google.com/file/d/1XZK6A6JV0qXTxconoWLLoQWII_S9yaN-/view?usp=drive_link) <br/> [Slides 10 - Struct](https://drive.google.com/file/d/15wdhqQWayWTWb_G1ICGS316AgS_-Dn3m/view?usp=drive_link) <br/> [Atividade 10: Struct](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link) |
 |   :black_square_button:   | 12/01/2026   | Algoritmos de ordenação. |  |
 |   :black_square_button:   | 19/01/2026   | Pilha e Fila. | |
 |   :black_square_button:   | 26/01/2026   | Lista encadeada. | |
