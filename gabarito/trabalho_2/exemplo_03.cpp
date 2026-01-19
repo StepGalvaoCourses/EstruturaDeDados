@@ -12,14 +12,12 @@ typedef struct tipo_aluno Aluno;
 int main(){
     Aluno alunos[3];
 
-    printf("Digite a matricula:");
-    scanf("%d",&alunos[0].matricula );
-    printf("Digite a nome:");
-    scanf("%s",alunos[0].nome );
-    printf("Digite a media:");
-    scanf("%f",&alunos[0].media );
+    alunos[0].matricula = 01;
+    alunos[0].media = 8.9;
+    strcpy(alunos[0].nome, "Jose");
 
-    printf("Nome: %s \n",alunos[0].nome);
-    printf("Matricula: %d \n",alunos[0].matricula);
-    printf("Media: %d \n",alunos[0].media);
+    alunos[1].matricula = 10;
+    alunos[1].media = 7.9;
+    strcpy(alunos[1].nome, "Ana");
+
 }
