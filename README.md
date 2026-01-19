@@ -72,7 +72,7 @@ Ao final desta disciplina, o aluno será capaz de:
 |   :white_check_mark:   | 29/12/2025   | *Recesso de Fim de Ano * |  |
 |   :white_check_mark:   | 05/01/2026   | String e Struct | [Slides 09 - String](https://drive.google.com/file/d/1XZK6A6JV0qXTxconoWLLoQWII_S9yaN-/view?usp=drive_link) <br/> [Slides 10 - Struct](https://drive.google.com/file/d/15wdhqQWayWTWb_G1ICGS316AgS_-Dn3m/view?usp=drive_link) <br/> [Atividade 10: Struct](https://drive.google.com/file/d/1S0--U9AmpLtOPJMtiLoxwCwmSqNFDYl9/view?usp=drive_link) |
 |   :white_check_mark:   | 12/01/2026   | Sistema com Array. | [Trabalho 01: lista simpes](https://drive.google.com/file/d/1P4iPTYyo5aMCawz0AOYofeEK_AKMr9Rd/view?usp=sharing) <br/> [Slide 11 - Desenvolvendo o sistema](https://drive.google.com/file/d/1rhwPGIsRIyvcTx_MJIezhJQrRd026yaU/view?usp=drive_link) <br/> [Gabarito](gabarito/trabalho_1/) |
-|   :black_square_button:   | 19/01/2026   | Sistema com Strucut | [Slide 12 - Sistema com Struct](https://drive.google.com/file/d/1zHXYjuikLT2e4KP8pL7CQpZT745TofDi/view?usp=drive_link) |
+|   :black_square_button:   | 19/01/2026   | Sistema com Strucut | [Slide 12 - Sistema com Struct](https://drive.google.com/file/d/1zHXYjuikLT2e4KP8pL7CQpZT745TofDi/view?usp=drive_link) <br/> [Codigo da Aula](/gabarito/trabalho_2/) |
 |   :black_square_button:   | 26/01/2026   | Ordenação e Busca | |
 |   :black_square_button:   | 02/02/2026   | Lista e pilha   |  |
 |   :black_square_button:   | 09/02/2026   | Avaliação e Entraga do Trabalho Final| |
